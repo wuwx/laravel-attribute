@@ -1,1 +1,1 @@
-# laravel-attributable
+# laravel-attribute
